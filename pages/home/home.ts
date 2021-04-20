@@ -5,7 +5,6 @@ import { NavController } from 'ionic-angular';
   selector: 'page-home',
   templateUrl: 'home.html',
   styleUrls: ['home.css']
-
 })
 export class HomePage {
   height: number;
